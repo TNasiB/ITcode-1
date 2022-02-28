@@ -103,3 +103,6 @@ input {
 .undo-task__title, .completed-task__title{
     margin-bottom: 15px;
 }
+.task + .task {
+    margin-top: 10px;
+}
